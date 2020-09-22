@@ -11,17 +11,19 @@
     "url": "git+https://github.com/jd9913/portfolio-generator.git"
   },
   "keywords": [
-    "nodejs"
-    "portfolio"
-    "generator"
-    "node"
+    "nodejs",
+    "portfolio",
+    "generator",
+    "node",
     "javascript"
-
   ],
   "author": "jd9913",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jd9913/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/jd9913/portfolio-generator#readme"
+  "homepage": "https://github.com/jd9913/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
