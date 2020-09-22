@@ -33,7 +33,7 @@
     <Content Include=".vs\slnx.sqlite" />
     <Content Include=".vs\VSWorkspaceState.json" />
     <Content Include="app.js" />
-    <Content Include="index.html" />
+
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
@@ -44,6 +44,7 @@
     <Folder Include=".vs\portfolio-generator\" />
     <Folder Include=".vs\portfolio-generator\config\" />
     <Folder Include=".vs\portfolio-generator\v16\" />
+
     <Folder Include="src\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
