@@ -1,0 +1,3 @@
+C:\Users\tiriw\projects\Class_Modules\portfolio-generator\obj\Debug\portfolio-generator.njsprojAssemblyReference.cache
+C:\Users\tiriw\projects\Class_Modules\portfolio-generator\obj\Debug\portfolio-generator.njsproj.CoreCompileInputs.cache
+C:\Users\tiriw\projects\Class_Modules\portfolio-generator\bin\Microsoft.NodejsTools.WebRole.dll
