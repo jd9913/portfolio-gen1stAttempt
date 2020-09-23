@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\portfolio-generator",
+    "\\portfolio-generator\\src"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\portfolio-generator\\app.js",
   "PreviewInSolutionExplorer": false
 }
